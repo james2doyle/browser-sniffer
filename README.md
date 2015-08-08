@@ -3,6 +3,18 @@ Browser Class
 
 A very simple class that takes in a user agent string and returns the browser name (Firefox, Chrome, Opera, etc.) and also the Operating System (Mac, Windows, Android, etc.).
 
+### Install
+
+It is recommended that you install the PHP Browser library [through composer](http://getcomposer.org/). To do so, add the following lines to your `composer.json` file.
+
+```json
+{
+    "require": {
+        "james2doyle/browser": "dev-master"
+    }
+}
+```
+
 ### Reasons
 
 Firstly, you *should not* use browser sniffing for feature detection, [use Modernizr](http://modernizr.com/).
