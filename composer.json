@@ -1,0 +1,23 @@
+{
+    "name": "james2doyle/browser",
+    "type": "library",
+    "description": "A simple class to detect the browser and the platform (operating system) that the user is using.",
+    "keywords": ["browser", "os", "operating system", "platform", "detection", "user agent", "sniff"],
+    "homepage": "https://github.com/james2doyle/browser",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "James Doyle",
+            "email": "james2doyle@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Browser": "src/"
+        }
+    }
+}
