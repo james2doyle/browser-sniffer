@@ -1,5 +1,5 @@
 {
-    "name": "james2doyle/browser",
+    "name": "james2doyle/browser-sniffer",
     "type": "library",
     "description": "A simple class to detect the browser and the platform (operating system) that the user is using.",
     "keywords": ["browser", "os", "operating system", "platform", "detection", "user agent", "sniff"],

@@ -1,5 +1,5 @@
-Browser Class
-=============
+Browser Sniffer Class
+=====================
 
 A very simple class that takes in a user agent string and returns the browser name (Firefox, Chrome, Opera, etc.) and also the Operating System (Mac, Windows, Android, etc.).
 
@@ -10,7 +10,7 @@ It is recommended that you install the PHP Browser library [through composer](ht
 ```json
 {
     "require": {
-        "james2doyle/browser": "dev-master"
+        "james2doyle/browser-sniffer": "dev-master"
     }
 }
 ```
